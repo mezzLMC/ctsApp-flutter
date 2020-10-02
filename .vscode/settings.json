@@ -1,4 +1,5 @@
 {
     "editor.autoIndent": "keep",
-    "editor.defaultFormatter": "Dart-Code.flutter"
+    "editor.defaultFormatter": "Dart-Code.flutter",
+    "dart.enableSdkFormatter": false
 }
